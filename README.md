@@ -1,1 +1,2 @@
-# sesion3-repo-organizacion
+# Nombre y apellidos
+Javier Martín Gómez
